@@ -137,12 +137,6 @@ The system performance is evaluated using:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots of your UI or chatbot responses here*
-
----
-
 ## 🔮 Future Enhancements
 
 * Integration with more real-time data sources
